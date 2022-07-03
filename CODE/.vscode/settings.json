@@ -1,0 +1,7 @@
+{
+    "editor.mouseWheelZoom": true,
+    "diffEditor.wordWrap": "on",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "cmake.configureOnOpen": false
+
+}
